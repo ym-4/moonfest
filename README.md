@@ -66,7 +66,7 @@ It was built from scratch with **vanilla JavaScript** and **Bootstrap 5** — no
 
 | Register | Dark Mode 🌑 |
 | :---: | :---: |
-| <img src="docs/register.png" alt="Registration page" width="400"> | <img src="docs/screenshots/dark-mode.png" alt="Dark mode" width="400"> |
+| <img src="docs/register.png" alt="Registration page" width="400"> | <img src="docs/dark-mode.png" alt="Dark mode" width="400"> |
 
 </div>
 
